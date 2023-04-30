@@ -38,7 +38,7 @@ c. To check Those values
    .project
    \*. Pyc (any extension)
 
-D:\Git\Screenshot 2023-04-30 074759.png
+![Screenshot 2023-04-30 074759.png](https://"C:\Users\Nikhil Arjun\Pictures\Screenshots\Screenshot 2023-04-30 074759.png")
 
 2. Add files to staging area
    Stage all changes in <directory> for the next commit.
