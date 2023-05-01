@@ -67,7 +67,7 @@ The core benefit of branching is if we want to push something to a remote reposi
   Can retrieve and update the commit by commit ID
 - Staging Area →
   Can be considered as a preview of our next commit, moreover, an intermediate area where commits can be formatted and reviewed before completion
-  D:\Git\git.jpg
+  ![git](https://user-images.githubusercontent.com/38100361/235437550-efa0bbba-ba89-458e-afdf-ad851336783b.jpg)
 
 - Maintain the clean history
   Git facilities with Git Rebase.
