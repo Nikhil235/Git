@@ -1,4 +1,4 @@
-![Screenshot 2023-04-30 161420.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/739ea2dc-6243-4aed-81fd-33aaa12eb249/Screenshot_2023-04-30_161420.png)
+![Screenshot 2023-04-30 161420](https://user-images.githubusercontent.com/38100361/235437197-edc2f67a-9143-4f6d-9b2f-152aff3c1380.png)
 
 **Linux for everyone**
 
